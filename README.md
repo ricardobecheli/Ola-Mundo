@@ -5,4 +5,4 @@
  
  Estou revendo a aula para fixar bem o uso das 3 ferramentas em conjunto: GitHub Desktop, GitHub e Visual Studio Code.
 
-Aguira testei duas coisas: 1) Os espaços entre parágrafos acima, que não estava acontecendo quando eu mudava de linha no VSC; 2) Editar esse texto diretamente do GitHub.
+Agora testei duas coisas: 1) Os espaços entre parágrafos acima, que não estava acontecendo quando eu mudava de linha no VSC; 2) Editar esse texto diretamente do GitHub.
